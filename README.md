@@ -5,8 +5,8 @@ Source code accompanying our NAACL 2018 paper:[TypeSQL: Knowledge-based Type-Awa
 
 #### Environment Setup
 
-1. The code uses Python 3.7 and Pytorch 1.11.0 GPU.
-3. Install dependencies: `conda env create -f environment.yml`
+1. The code uses Python 3.8 and Pytorch 1.11.0 GPU.
+2. Install dependencies: `pip install -r requirements.txt`
 
 #### Download Data and Embeddings
 
